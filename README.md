@@ -18,6 +18,4 @@ git status
 ## [提交更改到远程仓库]
 语法:git push <local_name> <remote_name>
 例子:git push -f -u master master
-备注:-f参数表示强制覆盖远程仓库的文件
-     -u参数表示关联本地和远程分支
-
+备注:-f参数表示强制覆盖远程仓库的文件,-u参数表示关联本地和远程分支
